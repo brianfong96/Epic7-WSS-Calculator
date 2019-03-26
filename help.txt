@@ -1,0 +1,41 @@
+What gear do I upgrade?
+
+Due to the changes on 7 Mar 2019 which exponentially increased the difficulty and costs involved in rolling ideal Heroic gear, the procedure for deciding what gear to upgrade has changed. Under the new system, non-Epic gear will only roll their full complement of substats by the +12 upgrade tier.
+The first rule of equipment use/upgrades was not to upgrade anything with a flat substat, but this is now not practicable as the flat substat may appear at the +12 level followed by a +15 roll on the flat substat. Thus, we must now upgrade based on the strength of known stats, rather than attempting to eliminate unknowns early.
+The measure we will be using to judge the overall strength of a piece of equipment will be henceforth termed as ‘weighted statistic sum’, or WSS, for short.
+To compute the WSS of a piece of gear, add all percentage-based stats together as follows:
+
+Attack, Defense, Health, Effectiveness, Resistance, Critical Hit Damage - x1.0
+Critical Hit Rate - x1.5
+Speed (this is always flat, but treat it as if it had a %) - x2.0
+
+The sum of the above stats multiplied by their respective weights is the WSS.
+
+The reason for the higher weightage of critrate and speed are due to the lower amounts you can get for each in substat form. As they are easier to get in set or mainstat forms, the recommended builds account for that.
+
+Flat Attack, Defense and Health are worth less than nothing as they ‘suck’ upgrades. Never even begin to upgrade gear with even one flat non-Speed stat.
+
+As the upgrade costs are a fixed ratio to the amount of equipment EXP required to upgrade gear, and higher item level gear requires much more EXP (but gives better stats), the following are the WSS cutoffs for each gear tier, regardless of colour.
+
+Item Level 88 (Tier 7)
++0: Only upgrade if WSS > 22%.
++3: Only upgrade if WSS > 29%.
++6: Only upgrade if WSS > 36%.
++9: Only upgrade if WSS > 42%.
++12: Only upgrade if WSS > 48%.
+
+Item Level 72-85 (Tier 6)
++0: Only upgrade if WSS > 20%.
++3: Only upgrade if WSS > 26%.
++6: Only upgrade if WSS > 32%.
++9: Only upgrade if WSS > 38%.
++12: Only upgrade if WSS > 44%.
+
+Item Level 58-71 (Tier 5)
++0: Only upgrade if WSS > 18%.
++3: Only upgrade if WSS > 24%.
++6: Only upgrade if WSS > 30%.
++9: Only upgrade if WSS > 35%.
++12: Only upgrade if WSS > 40%.
+
+The above upgrade protocol ensures that at whatever point you terminate the upgrading process, the equipment will be above average for its rarity and type. You can use the gear as is as stopgaps, or refodder them into better gear as you wish.
