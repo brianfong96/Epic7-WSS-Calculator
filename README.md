@@ -8,12 +8,10 @@ The follow is based from the above Google Doc
 ## Requirements
 - Python 3+ (https://www.python.org/downloads/)
 
-Python Modules used:
-
-- appJar (http://appjar.info/)
+pip install -r requirements.txt
 
 ## Usage
-If the latest version of python3 and appJar is installed, run by typing python main.py in console or terminal window
+python WSS-Calculator.py
 
 ## Author
 Brian Fong / @brianfong96
